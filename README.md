@@ -1,2 +1,2 @@
-# NOTHING
-You'll get nØthing here
+# NØTHING
+You'll get NOTHING here
